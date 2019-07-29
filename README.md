@@ -1,4 +1,4 @@
-# secret-app
+# Secret Web App
 Added some extra functionality such as Google OAuth or Facebook login to original boiler plate.
 Deployed the website onto Heroku using Node.js, and stored posts into MongoDB.
 
